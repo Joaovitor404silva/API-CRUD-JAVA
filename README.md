@@ -24,10 +24,6 @@ Este projeto consiste em uma API desenvolvida em Java com o framework Spring Boo
 1. Clone o repositório.
 3. Use sua IDE preferida.
 
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou relatar problemas utilizando as issues do GitHub.
-
 ## Autor
 
 [João vitor alves da silva](https://github.com/SoulLx)
