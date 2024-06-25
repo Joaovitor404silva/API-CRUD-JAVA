@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto consiste em uma API CRUD desenvolvida em Java com o framework Spring Boot. A API permite realizar operações básicas (Create, Read, Update, Delete) em uma entidade de Vendedores, com validações de documentos (CPF e CNPJ) e regras de negócio.
+Este projeto consiste em uma API desenvolvida em Java com o framework Spring Boot. A API permite realizar operações básicas (CRUD) em uma entidade de Vendedores, com validações de documentos (CPF e CNPJ) e regras de negócio.
 
 ## Recursos Principais
 
