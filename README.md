@@ -26,4 +26,4 @@ This project consists of an API developed in Java using the Spring Boot framewor
 
 ## Author
 
-[João Vitor Alves da Silva](https://github.com/SoulLx)
+[João Vitor Alves da Silva](https://github.com/Joaovitor404silva)
