@@ -1,30 +1,29 @@
-# API CRUD Java com Spring Boot
+# API CRUD Java with Spring Boot
 
-## Descrição
+## Description
 
-Este projeto consiste em uma API desenvolvida em Java com o framework Spring Boot. A API permite realizar operações básicas (CRUD) em uma entidade de Vendedores, com validações de documentos (CPF e CNPJ) e regras de negócio.
+This project consists of an API developed in Java using the Spring Boot framework. The API allows for basic operations (CRUD) on a Seller entity, with validations for documents (CPF and CNPJ) and business rules.
 
-## Recursos Principais
+## Key Features
 
-- CRUD completo para Vendedores.
-- Validação de documentos (CPF e CNPJ).
-- Persistência de dados.
+- Complete CRUD for Sellers.
+- Document validation (CPF and CNPJ).
+- Data persistence.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-- Java 
-- Spring Boot 
+- Java
+- Spring Boot
 - Maven
 - Hibernate
-- H2 Database 
+- H2 Database
 - JUnit 5
 
-## Configuração do Ambiente
+## Environment Setup
 
-1. Clone o repositório.
-3. Use sua IDE preferida.
+1. Clone the repository.
+2. Use your preferred IDE.
 
-## Autor
+## Author
 
-[João vitor alves da silva](https://github.com/SoulLx)
-
+[João Vitor Alves da Silva](https://github.com/SoulLx)
